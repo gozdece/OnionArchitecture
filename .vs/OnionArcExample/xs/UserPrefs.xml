@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{A9B1A8FE-33C3-4A46-8BC0-5979003D9B05}|Default">
+  <MonoDevelop.Ide.ItemProperties.src.Presentation.OnionArcExample.WebAPI PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/Infrastructure/OnionArcExample.Infrastructure/EmailService.cs">
+    <Files>
+      <File FileName="src/Core/OnionArcExample.Application/Dto/ProductDTO.cs" Line="1" Column="1" />
+      <File FileName="src/Core/OnionArcExample.Application/Exceptions/MyException.cs" Line="1" Column="1" />
+      <File FileName="src/Core/OnionArcExample.Domain/Common/BaseEntity.cs" Line="1" Column="1" />
+      <File FileName="src/Infrastructure/OnionArcExample.Infrastructure/EmailService.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OnionArcExample" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="Core" expanded="True">
+                <Node name="OnionArcExample.Domain" expanded="True" />
+              </Node>
+              <Node name="Infrastructure" expanded="True">
+                <Node name="OnionArcExample.Infrastructure" expanded="True">
+                  <Node name="EmailService.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
